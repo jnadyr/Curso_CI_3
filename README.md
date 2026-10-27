@@ -1,0 +1,1 @@
+This course covers building an application and its infrastructure, as well as creating a CI routine. Together, they will prepare the application environment on a remote machine. The entire process uses GitHub Actions and AWS. Additionally, this course dives deep into CI techniques and the secure management of secrets.
